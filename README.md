@@ -1,6 +1,6 @@
 # OpenSignal
 
-![OpenSignal Logo](resources/logo.png)
+<img src="resources/logo.png" alt="OpenSignal Logo" width="200px">
 
 OpenSignal is a game-changing open-source app designed to empower retail investors and revolutionize the way they access market data and collaborate with the investing community. With real-time market data, interactive charts, community-driven insights, and a host of other features, OpenSignal equips investors with the tools they need to make informed decisions and enhance their trading strategies.
 
